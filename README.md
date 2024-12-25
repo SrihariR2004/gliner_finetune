@@ -1,6 +1,6 @@
-# Fine-Tuned Glined Model: Patient and Provider Name Classification
+# Fine-Tuned Gliner Model: Patient and Provider Name Classification
 # Overview
-This repository contains a fine-tuned version of the Glined model designed specifically to classify Patient Names and Provider Names from input text. The model has been fine-tuned on domain-specific data to achieve high accuracy in identifying and categorizing these entities, making it useful for applications in healthcare, medical record management, and other related fields.
+This repository contains a fine-tuned version of the Gliner model designed specifically to classify Patient Names and Provider Names from input text. The model has been fine-tuned on domain-specific data to achieve high accuracy in identifying and categorizing these entities, making it useful for applications in healthcare, medical record management, and other related fields.
 
 Features
 Entity Classification: Detects and classifies entities into two categories:
